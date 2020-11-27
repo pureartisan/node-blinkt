@@ -1,15 +1,15 @@
 {
-  "name": "blinkt",
-  "version": "0.0.2",
+  "name": "@patched/blinkt",
+  "version": "1.0.0",
   "description": "Module for interacting with the Raspberry Pi Blinkt! addon",
-  "homepage": "https://github.com/NotNinja/node-blinkt",
+  "homepage": "https://github.com/pureartisan/node-blinkt",
   "bugs": {
-    "url": "https://github.com/NotNinja/node-blinkt/issues"
+    "url": "https://github.com/pureartisan/node-blinkt/issues"
   },
   "author": {
-    "name": "Alasdair Mercer",
-    "email": "mercer.alasdair@gmail.com",
-    "url": "https://not.ninja"
+    "name": "Prageeth Silva",
+    "email": "prageethsilva@gmail.com",
+    "url": "https://github.com/pureartisan"
   },
   "license": "MIT",
   "keywords": [
@@ -22,11 +22,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NotNinja/node-blinkt.git"
+    "url": "https://github.com/pureartisan/node-blinkt.git"
   },
   "dependencies": {
-    "exit-hook": "^1.1.1",
-    "onoff": "^1.1.7"
+    "exit-hook": "^2.2.0",
+    "onoff": "^6.0.1"
   },
   "main": "src/blinkt.js"
 }

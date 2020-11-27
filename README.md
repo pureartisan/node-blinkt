@@ -7,6 +7,8 @@
     888   d88P 888 888 888  888 888 "88b Y88b.   "
     8888888P"  888 888 888  888 888  888  "Y888 888
 
+# NOTE: This is a patched version with bumping the dependencies
+
 [Blinkt](https://github.com/NotNinja/node-blinkt) is Node.js library that allows you to interact with your Blinkt
 hardware:
 
